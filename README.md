@@ -7,7 +7,9 @@
   
 <h4>Para me contatar</h4>
 - 📫 E-mail para contato **fredsantanaloureiro@gmail.com**
+
 - 📫 Discord: frxd_sl
+  
 - 📫 [Redes Socias](https://guns.lol/frxd_sl)
 
 <h2 align="center">Linguagens 🚀</h2>
