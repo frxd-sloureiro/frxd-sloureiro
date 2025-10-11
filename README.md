@@ -5,7 +5,7 @@
 
 - ⚡ Inglês C1 
   
-<h3>Para me contatar</h3>
+<h2 align="center">Para me contatar</h2>
 
 - 📫 E-mail para contato **fredsantanaloureiro@gmail.com**
 
