@@ -5,7 +5,8 @@
 
 - ⚡ Inglês C1 
   
-<h4>Para me contatar</h4>
+<h3>Para me contatar</h3>
+
 - 📫 E-mail para contato **fredsantanaloureiro@gmail.com**
 
 - 📫 Discord: frxd_sl
