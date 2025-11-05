@@ -11,7 +11,7 @@
 
 - 📫 Discord: frxd_sl
   
-- 📫 [Redes Socias](https://guns.lol/frxd_sl)
+- 📫 [Redes Sociais](https://guns.lol/frxd_sl)
 
 <h2 align="center">Linguagens 🚀</h2>
 
