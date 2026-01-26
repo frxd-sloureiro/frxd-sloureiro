@@ -15,10 +15,10 @@
 
 <h2 align="center">Linguagens 🚀</h2>
 
-- **C**
-- **Java**
-- **Python**
-- **HTML & CSS**
+- <img width="16px" src="https://skillicons.dev/icons?i=c"> **C**
+- <img width="16px" src="https://skillicons.dev/icons?i=java"> **Java**
+- <img width="16px" src="https://skillicons.dev/icons?i=python"> **Python**
+- <img width="48px" src="https://skillicons.dev/icons?i=html,css,js"> **HTML, CSS, JS**
 <!--
 **frxd-sloureiro/frxd-sloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
