@@ -1,8 +1,6 @@
 <h1 align="center">Eae 👋, Fred aqui</h1>
 <h3 align="center">Estudante de Redes de Computadores do CEFET-MG</h3>
 
-- 🌱 Estou estudando **Python**
-
 - ⚡ Inglês C1 
   
 <h2 align="center">Para me contatar</h2>
