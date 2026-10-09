@@ -5,11 +5,9 @@
   
 <h2 align="center">Para me contatar</h2>
 
-- 📫 E-mail para contato **fredsantanaloureiro@gmail.com**
+- 📫 E-mail para contato **freds.loureiro@gmail.com**
 
-- 📫 Discord: frxd_sl
-  
-- 📫 [Redes Sociais](https://guns.lol/frxd_sl)
+- 📫 Discord: isocaedro
 
 <h2 align="center">Linguagens 🚀</h2>
 
@@ -17,6 +15,12 @@
 - <img width="16px" src="https://skillicons.dev/icons?i=java"> **Java**
 - <img width="16px" src="https://skillicons.dev/icons?i=python"> **Python**
 - <img width="48px" src="https://skillicons.dev/icons?i=html,css,js"> **HTML, CSS, JS**
+
+<h2 align="center">Sites/Social</h2>
+
+- 🌐 [Website](https://isocaedro.neocities.org)
+
+- 📍 [Social](https://guns.lol/frxd_sl)
 <!--
 **frxd-sloureiro/frxd-sloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
